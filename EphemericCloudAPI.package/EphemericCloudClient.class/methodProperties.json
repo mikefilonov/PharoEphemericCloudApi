@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"endPointUrl" : "mikefilonov 12/30/2015 19:17" },
+	"instance" : {
+		"/" : "mikefilonov 1/1/2016 18:02",
+		"all" : "mikefilonov 1/1/2016 16:05",
+		"at:" : "mikefilonov 1/1/2016 21:47",
+		"at:at:" : "mikefilonov 1/1/2016 21:47",
+		"at:at:put:" : "mikefilonov 1/1/2016 21:47",
+		"authToken" : "mikefilonov 12/30/2015 19:10",
+		"authToken:" : "mikefilonov 12/30/2015 19:10",
+		"createEphemericInstanceOn:" : "mikefilonov 1/1/2016 16:03",
+		"deleteAt:" : "mikefilonov 1/1/2016 21:47",
+		"getEphemerics" : "mikefilonov 1/1/2016 21:47",
+		"httpClient" : "mikefilonov 1/1/2016 21:47",
+		"publishZip:named:" : "mikefilonov 1/1/2016 22:17",
+		"userEndPointUrl" : "mikefilonov 1/1/2016 21:48",
+		"userID" : "mikefilonov 12/30/2015 19:10",
+		"userID:" : "mikefilonov 12/30/2015 19:10" } }

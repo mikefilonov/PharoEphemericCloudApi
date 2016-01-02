@@ -1,0 +1,15 @@
+{
+	"category" : "EphemericCloudAPI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"userID",
+		"authToken" ],
+	"name" : "EphemericCloudClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
