@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfEphemericCloudAPI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfEphemericCloudAPI",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
