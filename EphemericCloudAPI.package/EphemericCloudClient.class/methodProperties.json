@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"endPointUrl" : "mikefilonov 12/30/2015 19:17" },
+		"endPointUrl" : "mikefilonov 12/30/2015 19:17",
+		"userID:authToken:" : "mikefilonov 1/13/2016 18:10" },
 	"instance" : {
 		"/" : "mikefilonov 1/1/2016 18:02",
 		"all" : "mikefilonov 1/1/2016 16:05",
@@ -13,7 +14,6 @@
 		"deleteAt:" : "mikefilonov 1/1/2016 21:47",
 		"getEphemerics" : "mikefilonov 1/1/2016 21:47",
 		"httpClient" : "mikefilonov 1/1/2016 21:47",
-		"publishSelfAs:" : "mikefilonov 1/3/2016 18:15",
 		"publishZip:named:" : "mikefilonov 1/1/2016 22:17",
 		"userEndPointUrl" : "mikefilonov 1/1/2016 21:48",
 		"userID" : "mikefilonov 12/30/2015 19:10",
