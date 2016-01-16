@@ -21,4 +21,5 @@ publishZip: fileReference named: imageName
 	response isError ifTrue: [ Error signal: response statusLine reason ].
 		
 	hostname := NeoJSONReader fromString: response contents.
-	^ self / hostname	
+	self lastPublishedInstance: self / hostname.
+	^ self lastPublishedInstance.
