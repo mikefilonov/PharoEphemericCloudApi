@@ -10,7 +10,7 @@ publishSelfAs: imageName with: archiveBlock
 			yourself.
 		archiveBlock ifNotNil: [archiveBlock value: archive].
 		archive writeToFileNamed: imageName,'.zip'.
-		ZnConstants maximumEntitySize: 50*1024*1024.
-		self publishZip: imageName,'.zip' named:  imageName].
+
+		self publishZip: imageName,'.zip' named:  imageName withMaxSize: 60 * 1024 * 1024].
 
 	^isNew
