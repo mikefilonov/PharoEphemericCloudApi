@@ -1,13 +1,15 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"at:put:" : "mikefilonov 1/1/2016 16:32",
-		"client" : "mikefilonov 1/1/2016 16:00",
-		"client:" : "mikefilonov 1/1/2016 16:00",
 		"delete" : "mikefilonov 1/1/2016 21:05",
 		"doesNotUnderstand:" : "mikefilonov 1/1/2016 16:37",
 		"jsonObject" : "mikefilonov 1/1/2016 16:00",
+		"at:put:" : "mikefilonov 1/1/2016 16:32",
 		"jsonObject:" : "mikefilonov 1/1/2016 16:00",
 		"printOn:" : "mikefilonov 1/1/2016 20:32",
-		"reload" : "mikefilonov 1/1/2016 20:23" } }
+		"client:" : "mikefilonov 1/1/2016 16:00",
+		"reload" : "mikefilonov 1/1/2016 20:23",
+		"remote" : "mikefilonov 7/2/2017 17:36",
+		"client" : "mikefilonov 1/1/2016 16:00"
+	},
+	"class" : { }
+}
